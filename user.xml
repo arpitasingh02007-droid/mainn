@@ -1,0 +1,14 @@
+<users>
+<user>
+<username>admin</username>
+<password>admin123</password>
+</user>
+<user>
+<username>teacher</username>
+<password>teach456</password>
+</user>
+<user>
+<username>arpita</username>
+<password>pass123</password>
+</user>
+</users>
